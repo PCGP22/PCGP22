@@ -13,8 +13,8 @@ Currently I'm studying and practicing the MERN stack in order</br>
 to open more job opportunities.
 
 
-<h2>My Goal is...</h2>
 <hr/>
+<h2>My Goal is...</h2>
 
 To achieve the perfect amalgam between creativity and usability</br> 
 including most of the WCAG directives without relenting the </br>
@@ -24,8 +24,9 @@ while reaching out for tech books, videos, blogs, etc.
 
 It's always a continuum and that motivates me to keep up!
 
-<h2>What can I do?</h2>
 <hr/>
+<h2>What can I do?</h2>
+
 Web applications using:
 
 - Semantic Html & pure CSS.
@@ -46,8 +47,9 @@ really stuck with me. So far I'm good at:
 - BEM and clean code practices.
 
 
-<h2>Feel free to contact me:</h2>
 <hr/>
+<h2>Feel free to contact me:</h2>
+
 <a href="mailto:PCGP22@Gmail.com" target="blank" style="background-color">Mail me</a></br>
 <a href="https://www.linkedin.com/in/paulogutierrez22/" target="blank">LinkedIn</a>
 
