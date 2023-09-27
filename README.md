@@ -19,7 +19,7 @@ to open more job opportunities.
 To achieve the perfect amalgam between creativity and usability</br> 
 including most of the WCAG directives without relenting the </br>
 team's work. In order to do so, I intend to grow more </br>
-knowledgeable about the tech I'm working with project by project</br>
+knowledgeable about the tech I'm working with, project by project</br>
 while reaching out for tech books, videos, blogs, etc.
 
 It's always a continuum and that motivates me to keep up!
