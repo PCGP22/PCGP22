@@ -29,13 +29,13 @@ It's always a continuum and that motivates me to keep up!
 
 Web applications using:
 
-- Semantic Html & pure CSS.
-- JavaScript.
-- React.
-- Redux.
-- Node.
-- Express.
-- Sequelize.
+- Semantic Html, pure CSS, JavaScript.
+- React + Redux.
+- Node + Express.
+- Sequelize + Postgresql
+- NextJs + Tailwind
+- Mongodb + Mongoose
+- And I'm open to learn more technologies.
 
 In my journey I've encountered a lot of teachings that </br>
 really stuck with me. So far I'm good at:
