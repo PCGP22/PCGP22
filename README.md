@@ -17,13 +17,15 @@ cool effects to add to my pages.
 <hr/>
 <h2>My Goal is...</h2>
 
-To achieve the perfect amalgam between creativity and usability<br/> 
-including most of the WCAG directives without relenting the <br/>
-team's work. In order to do so, I intend to grow more <br/>
-knowledgeable about the tech I'm working with, project by project<br/>
-while reaching out for tech books, videos, blogs, etc.
+To always keep learning something.
 
-It's always a continuum and that motivates me to keep up!
+My main drive is knowledge, because i strive to be more and more<br/>
+resourceful with the pass of time and projects. However without a<br/>
+defined path, there's always the risk to forget some techniques,<br/>
+that's why I'm looking for my first job opportunity, to delimit my<br/>
+tech array and get as proficient as possible with each one of them.
+
+Right now I've been self studying using youtube and medium.
 
 <hr/>
 <h2>What can I do?</h2>
