@@ -2,7 +2,7 @@
 
 My name is Paulo Gutiérrez, and I'm a *Full Stack Web Developer* <br/>
 and an *Industrial Designer*. Both of them have in common that<br/>
-they're user centered, both need proyectual managment and there's<br/>
+they're user centered, both need proyectual management and there's<br/>
 always room for improvement.
 
 I love to create, because I like to always add a part of me to <br/>
