@@ -1,16 +1,17 @@
 <h1>Hi there 👋</h1>
 
 My name is Paulo Gutiérrez, and I'm a *Full Stack Web Developer* </br>
-who also happens to be an *Industrial Designer*. The thing they </br>
-have in common is that they can create both *attractive* and</br>
-*functional* designs while focusing on user accessibility.
+and an *Industrial Designer*. Both of them have in common that</br>
+they're user centered, both need proyectual managment and there's<br/>
+always room for improvement.
 
-I'm really passionate about styling due to the design nature</br>
-of my former career, but still proficient at back-end </br>
-programming.
+I love to create, because I like to always add a part of me to <br/>
+everything I do, so that there's more value than expected. This is<br/>
+why I'm more inclined to pursue a front end job, however, I know<br/>
+well how to work in back end environments.
 
-Currently I'm studying and practicing the MERN stack in order</br>
-to open more job opportunities.
+Currently I'm studying and practicing best code practices and new</br>
+cool effects to add to my pages.
 
 
 <hr/>
@@ -32,9 +33,9 @@ Web applications using:
 - Semantic Html, pure CSS, JavaScript.
 - React + Redux.
 - Node + Express.
-- Sequelize + Postgresql
-- NextJs + Tailwind
-- Mongodb + Mongoose
+- Sequelize + PostgreSQL.
+- NextJs + Tailwind.
+- TypeScript + redux/toolkit + SASS.
 - And I'm open to learn more technologies.
 
 In my journey I've encountered a lot of teachings that </br>
@@ -46,10 +47,11 @@ really stuck with me. So far I'm good at:
 - Testing.
 - BEM and clean code practices.
 
-
 <hr/>
 <h2>Feel free to contact me:</h2>
 
 <a href="mailto:PCGP22@Gmail.com" target="blank" style="background-color">Mail me</a></br>
 <a href="https://www.linkedin.com/in/paulogutierrez22/" target="blank">LinkedIn</a>
+<a href="https://portfolio-peach-alpha-44.vercel.app/" target="blank">Want to see my portfolio?</a>
+
 
