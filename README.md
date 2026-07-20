@@ -1,82 +1,103 @@
-<h1>Hi there 👋</h1>
+# Hi there 👋
 
-My name is Paulo Gutiérrez. I’m a backend-focused developer with solid frontend experience <br/>
-and hands-on startup experience building, extending, and owning production systems end to end.<br/>
-I enjoy understanding how things work under the hood so I can design solutions that are not only <br/>
-functional, but scalable, maintainable, and efficient.<br/>
+I'm Paulo Gutiérrez, a software developer with experience building, improving, and maintaining production systems from end to end.
 
-<br/>
 
-Working in a fast-paced startup environment taught me how to move fast and learn even faster. <br/>
-I went from designing services from scratch, to improving legacy systems, optimizing performance, and <br/>
-shipping AI-powered features that deliver real business value.<br/>
 
-<br/>
+Most of my work has revolved around understanding existing systems, identifying bottlenecks, and turning them into solutions that are faster, more reliable, and easier to maintain. Whether it's optimizing a PostgreSQL query, redesigning an automation pipeline, reducing AI usage costs or integrating third-party services. I particularly enjoy understanding the why's and the how's before deciding how to improve something.
 
-My main goal is to become an efficient and reliable software engineer, so I focus on mastering a <br/>
-core tech stack while staying flexible enough to quickly adapt to new tools when a problem demands it.<br/>
+I like to be as versatile as I can, so I'm constantly learning something new. So if I need to learn and use a new tool I can have more confidence in doing so.
 
-<br/>
-Currently, the tech stack I work with the most includes: <br/>
+---
 
-<ul>
-  <li>TypeScript / JavaScript</li>
-  <li>Node.js</li>
-  <li>Express.js</li>
-  <li>PostgreSQL</li>
-  <li>React</li>
-  <li>HTML / CSS</li>
-</ul>
+## Highlights
 
-<hr/>
+* Improved an RPA platform from **45% to 95% efficiency**, helping secure a client contract worth approximately **MXN 2 million annually**.
+* Reduced critical PostgreSQL query execution times from **minutes to seconds**, significantly improving production performance while alleviating the stress of the servers.
+* Reduced AI workflow errors by **80%** by redesigning processing pipelines and implementing validation guardrails.
+* Built RBAC applications integrating Jira, Google Drive, and Google Cloud services to automate internal workflows.
+* Worked directly with clients to transform ambiguous business requirements into production-ready software.
 
-<h2>What I’m good at</h2>
+---
 
-<br/>
-I have strong experience building backend services, automations, and AI-driven solutions. I’ve designed<br/>
-systems from scratch, refactored and extended legacy codebases, monitored and debugged production systems,<br/>
-and integrated third-party services and APIs under real production constraints.<br/>
+## What I enjoy building
 
-<br/>
-Some of the things I’ve worked on include: <br/>
-• RPA and automation workflows that replaced hours of manual work <br/>
-• AI-based systems for audio and document analysis <br/>
-• Backend platforms supporting data processing and quality evaluation <br/>
-• Database optimization and performance tuning for critical workflows <br/>
+I like building from scratch systems that constantly evolve. Or working with teams of developers to figure out why something isn't working as it should.
 
-<br/>
-I’m actively deepening my knowledge of design patterns, OOP, JavaScript internals, and system design <br/>
-to tackle increasingly complex technical problems with confidence.<br/>
+I've learned about different topics to provide more useful answers whatever the problem is. This is a list of what I'm comfortable with:
 
-<h3>Soft skills</h3>
+* Backend services and REST APIs
+* Database optimization and data modeling
+* Automation and RPA
+* AI-powered workflows
+* Third-party integrations
+* Performance tuning
+* Production debugging
+* Application security and access control
 
-I take ownership seriously. I ask questions early, stay accountable for the code I touch, and make <br/>
-sure things work reliably in production. I enjoy collaborating, helping teammates unblock issues, <br/>
-and proactively fixing bugs or improving existing solutions when I see the opportunity.<br/>
+The thing I love the most about working in tech is having to research a lot to figure out an issue.As I like puzzles a lot.
 
-<br/>
-I’m also patient, communicative, and empathetic — traits that helped me work directly with clients, <br/>
-understand their pain points, and defuse tense situations when expectations weren’t met.<br/>
+---
 
-<hr/>
+## Core Stack
 
-<h2>Achievements</h2>
+### Backend
 
-Driven by curiosity and adaptability, I became a go-to developer for new and challenging projects — <br/>
-including those requiring unfamiliar stacks or tools such as React Native, Puppeteer, Selenium, or <br/>
-Python. This trust led me to take responsibility for one of the company’s most critical projects.<br/>
+* TypeScript
+* Node.js
+* Express
+* PostgreSQL
+* Redis
+* Prisma
+* REST APIs
 
-<br/>
-That project strengthened the relationship with a key client and contributed to a revenue increase <br/>
-of nearly 6 million MXN.<br/>
+### Frontend
 
-<br/>
-I was also responsible for database performance optimizations, with the most notable case reducing <br/>
-query execution time in PostgreSQL from ~2 minutes to under 10 seconds in production.<br/>
+* React
+* Next.js
+* Tailwind CSS
+* HTML & CSS
+* Angular
 
-<hr/>
+### Infrastructure
 
-<h2>Feel free to contact me</h2>
+* Docker
+* Google Cloud Platform
+* Testing
+* Observability
+* RBAC
+* Security
 
-<a href="mailto:PCGP22@Gmail.com" target="blank">Mail me</a><br/>
-<a href="https://www.linkedin.com/in/paulogutierrez22/" target="blank">LinkedIn</a><br/>
+---
+
+## Current Focus
+
+I'm currently expanding into the Java ecosystem while continuing to strengthen my understanding of software engineering fundamentals.
+
+Current areas of study include:
+
+* Java
+* Spring Boot
+* Angular
+* System Design
+* JVM internals
+* Distributed systems
+
+The main idea is to keep deepening my problem-solving skills by understanding and using different approaches like OOP.
+
+---
+
+## A bit about how I work
+
+I care about ownership. If I'm responsible for a system, I want to understand how it behaves in production, where it fails, and how it can be improved.
+
+I've also worked directly with clients, so I'm comfortable working with initial ambiguity while making progress and letting the app evolve as they'd want.
+
+---
+
+## Let's connect
+
+**Email:** [PCGP22@gmail.com](mailto:PCGP22@gmail.com)
+
+**LinkedIn:**
+<a href="https://www.linkedin.com/in/paulogutierrez22" target="_blank">https://www.linkedin.com/in/paulogutierrez22</a>
